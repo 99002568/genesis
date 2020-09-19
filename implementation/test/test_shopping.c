@@ -37,10 +37,10 @@ int main() {
 
 /* Write all the test functions */ 
 void test_shoping(void) {
-  CU_ASSERT(30 == add(10, 20));
+  CU_ASSERT("valid pin" == password(1111));
   
   /* Dummy fail*/
-  CU_ASSERT(1500 == add(750, 7500));
+  CU_ASSERT("invalid pin" == password(1234));
 }
 
 }
