@@ -6,5 +6,5 @@
 #include <stdlib.h>
 
 int shoping();
-password( pin);
+void password(int);
 #endif
