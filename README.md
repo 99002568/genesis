@@ -4,6 +4,6 @@
 
 |Build|Unit Test|cppcheck|Valgrind|Codacy|
 |:--:|:--:|:--:|:--:|:--:|
-![cppcheck-action](https://github.com/99002568/genesis/workflows/cppcheck-action/badge.svg)|![cppcheck-action]
-![C/C++ CI](https://github.com/99002568/genesis/workflows/C/C++%20CI/badge.svg)|![Unit testing]
+![cppcheck-action](https://github.com/99002568/genesis/workflows/cppcheck-action/badge.svg)
+![C/C++ CI](https://github.com/99002568/genesis/workflows/C/C++%20CI/badge.svg)
 
