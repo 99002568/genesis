@@ -1,6 +1,17 @@
 #include"shopping.h"
-
-shoping()
+password(int pin)
+{
+if(pin==1111 || pin==2222 || pin==3333 || pin==4444 || pin==5555)
+ {
+ printf("valid pin\n");
+ shoping();
+ }
+ else{
+    printf("invalid pin\n");
+    exit(0);
+ }
+}
+int shoping()
 {
  static int totalCost;
  int p,choice,c=1,a[9],cost[9];
