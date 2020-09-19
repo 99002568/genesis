@@ -5,6 +5,7 @@ if(pin==1111 || pin==2222 || pin==3333 || pin==4444 || pin==5555)
  {
  printf("valid pin\n");
  shoping();
+ return 1;
  }
  else{
     printf("invalid pin\n");
