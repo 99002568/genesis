@@ -1,0 +1,14 @@
+Requirements
+
+ID	 DESCRIPTION
+1	   Username
+2	   password
+3	   List of products available
+4	   Cost of product in cart
+5	   Add the product to your cart
+6	   Show the details of the order
+7	   Add new item to the cart
+8	   Deleting items in the cart
+9	   Updated final product in cart
+10	 Updated total cost
+
