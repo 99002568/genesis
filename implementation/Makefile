@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = online shopping
+PROJECT_NAME = onlineshopping
 
 # Output directory
 BUILD = build
