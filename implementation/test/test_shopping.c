@@ -37,9 +37,9 @@ int main() {
 
 /* Write all the test functions */ 
 void test_shoping(void) {
-  CU_ASSERT(1== password(1111));
+  CU_ASSERT(1== password());
   
   /* Dummy fail*/
- // CU_ASSERT(0== password(1234));
+  CU_ASSERT(0== password(1234));
 }
 
