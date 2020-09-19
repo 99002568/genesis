@@ -43,4 +43,3 @@ void test_shoping(void) {
  // CU_ASSERT(0== password(1234));
 }
 
-}
