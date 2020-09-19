@@ -6,5 +6,6 @@
 #include <stdlib.h>
 
 int shoping();
-
+void password(int);
 #endif
+
