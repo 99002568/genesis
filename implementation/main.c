@@ -10,20 +10,15 @@ int main(void)
  printf("Hello %s, Welcome to our Online Shopping.\n",name);
  printf("Enter the pin\n");
  scanf("%d",&pin);
+ password( pin);
 
-if(pin==1111 || pin==2222 || pin==3333 || pin==4444 || pin==5555)
- {
- printf("valid pin\n");
- shoping();
- }
- else{
-    printf("invalid pin\n");
-    exit(0);
- 
+
 
  printf("Thanks %s for Choosing Us and Visit us again.\n",name);
 
  return 0;
 }
+
+
 
 
