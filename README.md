@@ -8,5 +8,4 @@
 ![cppcheck-action](https://github.com/99002568/genesis/workflows/cppcheck-action/badge.svg)
 
 |code quality|
-|:---:|
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/33545367e9c54ab8a9be554f7fd5c733)](https://www.codacy.com/gh/99002568/genesis/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002568/genesis&amp;utm_campaign=Badge_Grade)
